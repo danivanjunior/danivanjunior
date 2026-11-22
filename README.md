@@ -15,9 +15,9 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO-GITHUB">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&border_color=30363D&title_color=C9D1D9&text_color=8B949E"/>
+  <a href="https://github.com/danivanjunior">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=danivanjunior&show_icons=true&theme=dark&bg_color=0D1117&border_color=30363D&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&include_all_commits=true&count_private=true"/>
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danivanjunior&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&border_color=30363D&title_color=C9D1D9&text_color=8B949E"/>
   </a>
 </div>
 
